@@ -1,2 +1,2 @@
-# spark-game-jam-1
+# spark-game-jam
  
